@@ -18,6 +18,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository to your local machine using the following command:
 
+# Project Title
+
+![Screenshot](login.png)
+
+
 ```bash
 git clone https://github.com/craigtotti/loginpage.git
 
