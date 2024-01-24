@@ -18,9 +18,9 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository to your local machine using the following command:
 
-# Project Title
+![Alt text](C:\Users\Ronaldo Faria\Downloads\login.png)
 
-![Screenshot](login.png)
+![Login Page Screenshot](https://github.com/craigtotti/loginpage/blob/main/login.png?raw=true)
 
 
 ```bash
